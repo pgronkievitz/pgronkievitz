@@ -1,0 +1,58 @@
+#+TITLE: Patryk Gronkiewicz (@pgronkievitz)
+#+AUTHOR: Patryk Gronkiewicz
+#+EMAIL: patryk@gronkiewicz.xyz
+#+LANGUAGE: pl
+
+/Cześć!/
+
+[[https://github.com/pgronkievitz/pgronkievitz/blob/master/README.org][English version]]
+
+* O mnie
+Nazywam się Patryk Gronkiewicz, ale wszędzie można mnie znaleźć jako /@pgronkievitz/.
+Jestem początkującym data scientist z Rzeszowa, studiuję inżynierię i analizę danych na Politechnice Rzeszowskiej.
+** UMIEJĘTNOŚCI
+*** Zaawansowany
++ Git
++ Python
++ Linux
++ MongoDB
+*** Średniozaawansowany
++ Data processing
++ Data cleaning
++ Data visualization
++ Jupyter Notebooks
++ NumPy
++ Pandas
++ MatPlotLib
++ PostgreSQL
++ MariaDB/MySQL
+*** Początkujący
++ R
++ Google Cloud Platform
+*** Dodatkowe
++ Silna wola nauki ;)
+*** Znane języki
++ /Polski/ --- Język ojczysty
++ /Angielski/ --- B2/C1
+** EDUKACJA
+1. *Politechnika Rzeszowska*, Rzeszów --- /Engineering degree/
+
+   10.2019 - OBECNIE
+
+   Inżynieria i analiza danych
+** DOŚWIADCZENIE
++ S&S Media (/Zdalnie/)
+
+  07.2018 - 08.2018
+
+  Junior DevOps/Fullstack developer
+** OSIĄGNIĘCIA I KURSY
++ Współzałożyciel i aktualny przewodniczący Koła Machine Learning
++ Udział w kursie MS PowerBI prowadzonym przez Deloitte
+* Gdzie można mnie znaleźć?
+1. [[https://linkedin.com/in/pgronkievitz][LinkedIn]]
+2. [[https://facebook.com/pgronkievitz][FaceBook]]
+3. [[https://github.com/pgronkievitz][GitHub]]
+4. [[https://gitlab.com/pgronkievitz][GitLab]]
+5. [[https://gronkiewicz.xyz][My Website]]
+Można się ze mną skontaktować pod adresem [[mailto:patryk@gronkiewicz.xyz][patryk@gronkiewicz.xyz]]
