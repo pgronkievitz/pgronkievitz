@@ -2,7 +2,7 @@
 *Cześć\!*
 
 [English
-version](https://github.com/pgronkievitz/pgronkievitz/blob/master/README.org)
+version](https://github.com/pgronkievitz/pgronkievitz/blob/master/README.md)
 
 ## O mnie
 

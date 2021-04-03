@@ -3,7 +3,7 @@
 *Hi!*
 
 [Wersja
-polska](https://github.com/pgronkievitz/pgronkievitz/blob/master/README_pl.org)
+polska](https://github.com/pgronkievitz/pgronkievitz/blob/master/README_pl.md)
 
 ## About me
 
