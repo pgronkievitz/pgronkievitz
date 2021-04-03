@@ -50,19 +50,15 @@ Technology (Politechnika Rzeszowska).
 ## EDUCATION
 
 1. **Politechnika Rzeszowska (Rzeszów University of Technology)**,
-  Rzeszów --- *Engineering degree*
-
-  OCT 2019 - PRESENT
-
-  Data analysis and engineering.
+    Rzeszów --- *Engineering degree*
+    OCT 2019 - PRESENT
+    Data analysis and engineering.
 
 ## EXPERIENCE
 
 - S&S Media (*Remote*)
-
-  JUL 2018 - AUG 2018
-
-  Junior DevOps/Fullstack developer
+    JUL 2018 - AUG 2018
+    Junior DevOps/Fullstack developer
 
 ## ACHIEVEMENTS AND COURSES
 

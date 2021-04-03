@@ -48,14 +48,14 @@ studiuję inżynierię i analizę danych na Politechnice Rzeszowskiej.
 ### EDUKACJA
 
 1. **Politechnika Rzeszowska**, Rzeszów — *Engineering degree*
-  10.2019 - OBECNIE
-  Inżynieria i analiza danych
+    10.2019 - OBECNIE
+    Inżynieria i analiza danych
 
 ### DOŚWIADCZENIE
 
 - S\&S Media (*Zdalnie*)
-  07.2018 - 08.2018
-  Junior DevOps/Fullstack developer
+    07.2018 - 08.2018
+    Junior DevOps/Fullstack developer
 
 ### OSIĄGNIĘCIA I KURSY
 
