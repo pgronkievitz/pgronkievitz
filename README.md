@@ -71,6 +71,6 @@ Technology (Politechnika Rzeszowska).
 2. [FaceBook](https://facebook.com/pgronkievitz)
 3. [GitHub](https://github.com/pgronkievitz)
 4. [GitLab](https://gitlab.com/pgronkievitz)
-5. [My Website](https://gronkiewicz.xyz)
+5. [My Website](https://gronkiewicz.dev)
 
-You can also write an email to me at <patryk@gronkiewicz.xyz>
+You can also write an email to me at <patryk@gronkiewicz.dev>

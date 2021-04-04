@@ -68,6 +68,6 @@ studiuję inżynierię i analizę danych na Politechnice Rzeszowskiej.
 2. [FaceBook](https://facebook.com/pgronkievitz)
 3. [GitHub](https://github.com/pgronkievitz)
 4. [GitLab](https://gitlab.com/pgronkievitz)
-5. [My Website](https://gronkiewicz.xyz)
+5. [My Website](https://gronkiewicz.dev)
 
-Można się ze mną skontaktować pod adresem <patryk@gronkiewicz.xyz>
+Można się ze mną skontaktować pod adresem <patryk@gronkiewicz.dev>
