@@ -1,0 +1,23 @@
+#+TITLE: Hi there 👋, I'm Patryk Gronkiewicz
+#+begin_center
+Data Analysis & Engineering student
+#+end_center
+
+* About
++ 🔭 I'm learning some DevOps
++ 💬 We can talk about DevOps and AI
++ 📮 You can reach me here 👉 [[mailto:patryk@gronkiewicz.dev][patryk@gronkiewicz.dev]]
+
+* My skills
++ 🐚 Bash
++ 🐍 *Python 3*
++ 🐋 *Docker*
++ 🚢 Kubernetes
++ 🌳 *Git*
++ 🐧 *Linux*
++ 🐘 PostgreSQL
++ 🦭 MariaDB
+
+#+begin_quote
+Talk is cheap, just show me the code -- Linus Torvalds
+#+end_quote
